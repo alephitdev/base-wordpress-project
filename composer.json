@@ -1,0 +1,6 @@
+{
+    "require": {
+        "robmorgan/phinx": "^0.12.4",
+        "wp-cli/wp-cli-bundle": "^2.4"
+    }
+}
