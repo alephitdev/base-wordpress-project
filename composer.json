@@ -1,4 +1,6 @@
 {
+    "name": "alephit/base-wordpress-project",
+    "description": "Initial Wordpress Project with pre-build themes and plugins"
     "require": {
         "robmorgan/phinx": "^0.12.4",
         "wp-cli/wp-cli-bundle": "^2.4"
